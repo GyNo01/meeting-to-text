@@ -29,7 +29,7 @@
 ## 快速开始（智能体一键安装）
 您可以免去手动的繁杂配置，直接将下面这段话复制发送给您的 AI 智能体（如 Codex, OpenClaw, Cursor 等等）：
 
-> **Prompt:** 请根据这个网站中的指引为我安装这个 skill 还有其对应需要的模型和依赖：https://github.com/henrCh1/meeting-to-text
+> **Prompt:** 请根据这个网站中的指引为我安装这个 skill 还有其对应需要的模型和依赖：https://github.com/GyNo01/meeting-to-text/meeting-to-text-skill-package
 
 ---
 
